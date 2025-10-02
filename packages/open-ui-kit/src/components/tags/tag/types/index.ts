@@ -16,6 +16,7 @@
 
 export interface TagStatusStyle {
   backgroundColor: string;
+  border: string;
   iconColor: string;
   icon: React.ElementType;
 }
